@@ -19,3 +19,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. Backup and disaster recovery
    c. System software development
    d. User training
+   
+4. git clone does what? 
+   a. it gets a local copy of a project
+   b. it specifies intentionally untracked files
+   c. it integrates different code basis
+   d. it creates a token
