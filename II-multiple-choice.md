@@ -25,3 +25,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. it specifies intentionally untracked files
    c. it integrates different code basis
    d. it creates a token
+
+5. what does F in FLOSS mean?
+   a. faithful
+   b. fight club
+   c. flossing
+   d. free
