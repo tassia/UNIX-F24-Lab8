@@ -8,3 +8,5 @@ For each of the statements below, mark with an “X” the column that correctly
 4. Git stands for global integrated tracker
 5. GNU stands for "GNU is not unix"
 6. Git and GitHub are not the same
+7. System D is the first init system introduced in Unix.
+8. Newly created users by default have sudo permissions.

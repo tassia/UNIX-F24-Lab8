@@ -13,3 +13,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. Virtual Private Server
    c. Volatile Public Server
    d. Volcano Public Server
+   
+3. Which of the following does not include Sysadmin tasks
+   a. System maintenance and health monitoring
+   b. Backup and disaster recovery
+   c. System software development
+   d. User training
