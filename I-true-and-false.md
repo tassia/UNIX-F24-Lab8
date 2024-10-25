@@ -13,3 +13,4 @@ For each of the statements below, mark with an “X” the column that correctly
 9. You should do all your work as the root user.
 10. The "cd .." moves your current directory all the way down the file structure.
 11. "chmod" is the command used to modify the last committed changes.
+12. what is a swap space?
