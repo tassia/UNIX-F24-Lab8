@@ -14,3 +14,4 @@ For each of the statements below, mark with an “X” the column that correctly
 10. The "cd .." moves your current directory all the way down the file structure.
 11. "chmod" is the command used to modify the last committed changes.
 12. Forking and cloning a github repository are synonymous and do the same thing
+13. Git is a distributed version control system.
