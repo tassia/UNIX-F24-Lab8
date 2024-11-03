@@ -43,3 +43,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. Virtual Protected Site
    c. Virtual Private Server
    d. Vegetable Protein Smoothie
+
+8. What does the 'touch' command do in Unix?
+   a. It displays the file content.
+   b. It creates a new file.
+   c. It deletes a file.
+   d. It moves a file.
