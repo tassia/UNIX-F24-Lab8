@@ -17,3 +17,4 @@ For each of the statements below, mark with an “X” the column that correctly
 13. Git is a distributed version control system.
 14. The 'ls -a' command shows hideen files in a directory.
 15. You can use touch to create file.
+16. We use mkdir to create directories.

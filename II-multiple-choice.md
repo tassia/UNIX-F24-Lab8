@@ -55,3 +55,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. touch
    c. cd
    d. ls
+
+10. How do you access a file and edit it? 
+   a. nano
+   b. cd
+   c. mkdir
+   d. ls
