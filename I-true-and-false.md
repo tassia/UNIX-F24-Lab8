@@ -19,3 +19,5 @@ For each of the statements below, mark with an “X” the column that correctly
 15. You can use touch to create file.
 16. We use mkdir to create directories.
 17. The command 'pwd' is used to print the current working directory.
+18. What does the '..' do?
+19. what is a swap space?
