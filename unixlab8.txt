@@ -1,0 +1,4 @@
+Question for Quiz#2
+
+1. What are the differences between the commands;
+apt update, apt upgrade, apt full-upgrade.
