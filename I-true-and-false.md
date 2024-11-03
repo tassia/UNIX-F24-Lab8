@@ -21,3 +21,4 @@ For each of the statements below, mark with an “X” the column that correctly
 17. The command 'pwd' is used to print the current working directory.
 18. What does the '..' do?
 19. what is a swap space?
+20. Every time you make a git commit, a log entry is created, and you can look at it by using the git log command.
