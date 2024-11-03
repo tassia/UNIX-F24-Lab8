@@ -37,3 +37,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. Apache license.
    c. GPL
    d. None of the above
+
+7. 1. What does VPS stand for?
+   a. Very Protected Server
+   b. Virtual Protected Site
+   c. Virtual Private Server
+   d. Vegetable Protein Smoothie
