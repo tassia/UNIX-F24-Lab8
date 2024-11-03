@@ -49,3 +49,9 @@ Circle the choice that best answers each question. If you select more than one, 
    b. It creates a new file.
    c. It deletes a file.
    d. It moves a file.
+
+9. What command is used to create a directory? 
+   a. mkdir
+   b. touch
+   c. cd
+   d. ls
