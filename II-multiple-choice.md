@@ -37,3 +37,33 @@ Circle the choice that best answers each question. If you select more than one, 
    b. Apache license.
    c. GPL
    d. None of the above
+
+7. 1. What does VPS stand for?
+   a. Very Protected Server
+   b. Virtual Protected Site
+   c. Virtual Private Server
+   d. Vegetable Protein Smoothie
+
+8. What does the 'touch' command do in Unix?
+   a. It displays the file content.
+   b. It creates a new file.
+   c. It deletes a file.
+   d. It moves a file.
+
+9. What command is used to create a directory? 
+   a. mkdir
+   b. touch
+   c. cd
+   d. ls
+
+10. How do you access a file and edit it? 
+   a. nano
+   b. cd
+   c. mkdir
+   d. ls
+
+11. What is the functionality of "git add"?
+   a. adds a new branch
+   b. stages changes for the next commit
+   c. adds changes to the repository
+   d. makes a new repository
