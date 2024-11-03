@@ -10,7 +10,7 @@ For each of the statements below, mark with an “X” the column that correctly
 6. Git and GitHub are not the same.
 7. System D is the first init system introduced in Unix.
 8. Newly created users by default have sudo permissions.
-9. You should do all your work as the root user.
+9. Is git a Version Control System?
 10. The 'cd ..' moves your current directory all the way down the file structure.
 11. 'chmod' is the command used to modify the last committed changes.
 12. Forking and cloning a github repository are synonymous and do the same thing.
@@ -23,3 +23,4 @@ For each of the statements below, mark with an “X” the column that correctly
 19. what is a swap space?
 20. Every time you make a git commit, a log entry is created, and you can look at it by using the git log command.
 21. The .gitignore file specifies intentionally untracked files.
+22. You should do all your work as the root user.
